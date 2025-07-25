@@ -114,4 +114,4 @@ Have a feature idea? Open an issue or PR..
   
 ## 🌐 Author  
   
-Made with clean code and caffeine by **[ephemeral8997](https://github.com/ephemeral8997)**
+Made with clean code by **[ephemeral8997](https://github.com/ephemeral8997)**
